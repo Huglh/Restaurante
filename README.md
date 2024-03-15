@@ -20,11 +20,11 @@ O programa exibe um menu com as seguintes opções:
 ## Como Executar
 
 1. Clone este repositório.
-2. Compile e execute o código-fonte do programa em um ambiente Java/C#.
+2. Compile e execute o código-fonte do programa em um ambiente C#.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e propor melhorias neste projeto.
 
 ---
-Este projeto foi desenvolvido por [Hugo Thiago Lima Menezes].
+Este projeto foi desenvolvido por Hugo Thiago Lima Menezes.
